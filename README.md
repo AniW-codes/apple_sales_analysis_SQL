@@ -15,8 +15,6 @@ This project is designed to showcase advanced SQL querying techniques through th
 ![ERD](https://github.com/AniW-codes/apple_sales_analysis_SQL/blob/main/erd.png)
 
 
-Here’s the shortened and improved version of the "What’s Included" and "Why Choose This Project" sections, along with the link:
-
 ---
 
 
